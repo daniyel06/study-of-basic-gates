@@ -85,15 +85,18 @@ endmodule
  
 **Logic symbol & Truthtable**
 
-![WhatsApp Image 2024-11-29 at 13 15 06_e758a663](https://github.com/user-attachments/assets/69f520eb-adfb-4253-ab73-4820c52614e7)
+![mainimg1](https://github.com/user-attachments/assets/239c01ac-dc46-4c6c-81a6-99cf25ae6eae)
+
 
 **RTL realization Output:** 
 
 **RTL**
-![WhatsApp Image 2024-11-29 at 13 48 10_0f5de62f](https://github.com/user-attachments/assets/b8532458-802d-4c58-87b1-6480921e1169)
+![img1](https://github.com/user-attachments/assets/a235f68e-4b05-43c4-8fe1-f0d1eac0df82)
+
 
 **TIMING WAVEFORM**
-![WhatsApp Image 2024-11-29 at 13 54 38_46350a08](https://github.com/user-attachments/assets/1aca00fa-7638-4721-8fee-9ba373510701)
+![img2](https://github.com/user-attachments/assets/bcea00fb-6d68-47dd-9994-a468ee646ebb)
+
 
 
 **Result:**
